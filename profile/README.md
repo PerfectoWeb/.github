@@ -18,10 +18,13 @@ Mac apps, editor extensions, and hardware projects.<br>Most are open source. Eve
 
 ## 🖥 macOS
 
-<table width="100%">
+<table>
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/Belay"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/belay.webp" width="240" alt="Belay"></a></td>
 <td>
+
+<img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/spacer.png" width="700" height="1" alt="">
+
 
 ### [Belay](https://github.com/PerfectoWeb/Belay)
 
@@ -37,6 +40,7 @@ Keeps your Mac awake while coding agents work, then lets it sleep when they're d
 <td width="240"><a href="https://github.com/PerfectoWeb/Gibson"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/gibson.webp" width="240" alt="Gibson"></a></td>
 <td>
 
+
 ### [Gibson](https://github.com/PerfectoWeb/Gibson)
 
 A screen saver that turns your display into the security dashboard from every hacker film. Half of it is real: the numbers come off your machine.
@@ -51,10 +55,13 @@ A screen saver that turns your display into the security dashboard from every ha
 
 ## 🧩 Editor extensions
 
-<table width="100%">
+<table>
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/nova-perfectdark-theme"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/nova-dark.webp" width="240" alt="Nova: Perfect Dark"></a></td>
 <td>
+
+<img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/spacer.png" width="700" height="1" alt="">
+
 
 ### [Nova: Perfect Dark](https://github.com/PerfectoWeb/nova-perfectdark-theme)
 
@@ -68,6 +75,7 @@ An easy-on-the-eyes dark theme for Panic's Nova.
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/nova-favicon-clip"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/nova-favicon.webp" width="240" alt="Nova: Favicon Clip"></a></td>
 <td>
+
 
 ### [Nova: Favicon Clip](https://github.com/PerfectoWeb/nova-favicon-clip)
 
@@ -95,10 +103,12 @@ Lorem ipsum without leaving the editor.
 
 ## 🔧 Hardware
 
-<table width="100%">
+<table>
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/flipper-pocketlab"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/pocketlab.webp" width="240" alt="Flipper Zero: PocketLab"></a></td>
 <td>
+
+<img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/spacer.png" width="700" height="1" alt="">
 
 ### [Flipper Zero: PocketLab](https://github.com/PerfectoWeb/flipper-pocketlab)
 
@@ -141,10 +151,12 @@ A drawer that mounts under the Creality K2 and a grid of trays you print to fit 
 
 ## 📦 Installing the Mac apps
 
-<table width="100%">
+<table>
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/homebrew-tap"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/tap.webp" width="240" alt="PerfectoWeb tap"></a></td>
 <td>
+
+<img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/spacer.png" width="700" height="1" alt="">
 
 Install our Mac apps with Homebrew, update them with `brew upgrade`, and remove their preferences on uninstall.
 
