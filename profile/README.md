@@ -18,7 +18,7 @@ Mac apps, editor extensions, and hardware projects.<br>Most are open source. Eve
 
 ## 🖥 macOS
 
-<table>
+<table width="100%">
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/Belay"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/belay.webp" width="240" alt="Belay"></a></td>
 <td>
@@ -29,7 +29,6 @@ Keeps your Mac awake while coding agents work, then lets it sleep when they're d
 
 [![Site](https://img.shields.io/badge/site-perfectoweb.github.io%2FBelay-1f6bff?style=flat)](https://perfectoweb.github.io/Belay/)
 [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-Belay-1f6bff?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
-[![Downloads](https://img.shields.io/github/downloads/PerfectoWeb/Belay/total?style=flat&color=2b3038&label=downloads)](https://github.com/PerfectoWeb/Belay/releases)
 [![Release](https://img.shields.io/github/v/release/PerfectoWeb/Belay?style=flat&color=2b3038&label=release)](https://github.com/PerfectoWeb/Belay/releases/latest)
 
 </td>
@@ -52,7 +51,7 @@ A screen saver that turns your display into the security dashboard from every ha
 
 ## 🧩 Editor extensions
 
-<table>
+<table width="100%">
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/nova-perfectdark-theme"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/nova-dark.webp" width="240" alt="Nova: Perfect Dark"></a></td>
 <td>
@@ -96,7 +95,7 @@ Lorem ipsum without leaving the editor.
 
 ## 🔧 Hardware
 
-<table>
+<table width="100%">
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/flipper-pocketlab"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/pocketlab.webp" width="240" alt="Flipper Zero: PocketLab"></a></td>
 <td>
@@ -142,7 +141,7 @@ A drawer that mounts under the Creality K2 and a grid of trays you print to fit 
 
 ## 📦 Installing the Mac apps
 
-<table>
+<table width="100%">
 <tr>
 <td width="240"><a href="https://github.com/PerfectoWeb/homebrew-tap"><img src="https://raw.githubusercontent.com/PerfectoWeb/.github/main/profile/img/tap.webp" width="240" alt="PerfectoWeb tap"></a></td>
 <td>
